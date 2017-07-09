@@ -1,0 +1,1926 @@
+1. Hello. 你好！ 
+2. Good morning. 早晨好！ 
+3. I’m John Smith. 我是约翰、史密斯。 
+4. Are you Bill Jones?你是比尔、琼斯吗？ 
+5. Yes, I am. 是的，我是。 
+6. How are you?你好吗？ 
+7. Fine, thanks. 很好，谢谢。 
+8. How is Helen?海伦好吗？ 
+9. She’s very well, thank you. 她很好，谢谢您。 
+10. Good afternoon, Mr. Green. 午安，格林先生。 
+11. Good evening, Mrs. Brown. 晚上好，布朗夫人。 
+12. How are you this evening?今晚上您好吗？ 
+13. Good night, John. 晚安，约翰。 
+14. Good-bye, Bill. 再见，比尔。 
+15. See you tomorrow. 明天见。 
+16. Come in, please. 请进！ 
+17. Sit down. 坐下！ 
+18. Stand up, please. 请站起来。 
+19. Open your book, please. 请把书打开。 
+20. Close your book, please. 请把书合上。 
+21. Don’t open your book. 别打开书。 
+22. Do you understand?你明白了吗？ 
+23. Yes, I understand. 是的，我明白了。 
+24. No, I don’t understand. 不，我不明白。 
+25. Listen and repeat. 先听，然后再重复一遍。 
+26. Now read, please. 现在请大家读。 
+27. That’s fine. 好得很。 
+28. It’s time to begin. 到开始的时候了。 
+29. Let’s begin now. 现在让我们开始。 
+30. This is Lesson One. 这是第一课。 
+31. What’s this? 这是什么？ 
+32. That’s a book. 那是一本书。 
+33. Is this your book? 这是你的书吗？ 
+34. No, that’s not my book. 不，那不是我的书。 
+35. Whose book is this? 这是谁的书？ 
+36. That’s your book. 那是你的书。 
+37. And what’s that? 还有那是什么？ 
+38. Is that a book? 那是一本书吗？ 
+39. No, it isn’t. 不，不是。 
+40. It’s a pencil. 那是一枝铅笔。 
+41. Is it yours? 它是你的吗？ 
+42. Yes, it’s mine. 是，是我的。 
+43. Where’s the door? 门在哪儿？ 
+44. There it is. 门在那儿。 
+45. Is this book his? 这本书是他的吗？ 
+46. What are these? 这些是什么？ 
+47. Those are books. 那些是书。 
+48. Where are the books? 那些书在哪儿？ 
+49. There they are. 在那儿。 
+50. These are my pencils. 这些是我的铅笔。 
+51. Where are your pens? 你的那些钢笔在哪儿？ 
+52. They’re over there. 在那里。 
+53. Are these your pens? 这些是你的钢笔吗？ 
+54. Yes, they are. 是我的。 
+55. Those are mine. 那些是我的。 
+56. These are your books, aren’t they? 这些书是你的，对不对？ 
+57. No, they aren’t. 不，不是。 
+58. They’re not mine. 不是我的。 
+59. These are mine, and those are yours. 这些是我的，而那些是你的。 
+60. Those aren’t your pens, are they? 那些钢笔不是你的，对吧？ 
+61. Who are you? 你是谁？ 
+62. I’m a student. 我是学生。 
+63. Who is that over there? 那边那个人是谁？ 
+64. He’s a student, too. 他也是学生。 
+65. Is that lady a student? 那位女士是学生吗？ 
+66. No, she isn’t. 不，她不是。 
+67. Those men aren’t students, either. 那些人也不是学生。 
+68. Am I your teacher? 我是你们的教员吗？ 
+69. Yes, you are. 是的，你是。 
+70. That man is a teacher, isn’t he? 那个人是位教员，对不对？ 
+71. Yes, he is. 是的，他是。 
+72. Who are those people? 那些人是谁？ 
+73. Maybe they’re farmers. 他们可能是农民。 
+74. Aren’t they students? 他们不是学生吗？ 
+75. I really don’t know. 我真的不知道。 
+76. What’s your name? 你叫什么名字？ 
+77. My name is Jones. 我姓琼斯。 
+78. What’s your first name? 你的名字叫什么？ 
+79. My first name is Bill. 我的名字叫比尔。 
+80. How do you spell your last name? 你的姓怎么拼法？ 
+81. Jones. J-O-N-E-S. 琼斯，J－O－N－E－S。 
+82. What’s your friend’s name? 你的朋友叫什么名字？ 
+83. His name is John Smith. 他叫约翰、史密斯。 
+84. John and I are old friends. 我和约翰是老朋友了。 
+
+85. Are you John’s brother? 你是约翰的兄弟吗？ 
+86. No, I’m not. 不，我不是。 
+87. This is Mr. Jones. 这是琼斯先生。 
+88. How do you do? 你好！ 
+89. Mrs. Jones, this is Mr. John Smith. 琼斯夫人，这是约翰、史密斯先生。 
+90. Very please to meet you. 见到您很高兴。 
+
+91. What day is today? 今天是星期几？ 
+92. Today is Monday. 今天是星期一。 
+93. What day was yesterday? 昨天是星期几？ 
+94. Yesterday was Sunday. 昨天是星期日。 
+95. What day is tomorrow? 明天是星期几？ 
+96. What month is this? 现在是几月份？ 
+97. This is January. 现在是一月份。 
+98. Last month was December, wasn’t it ? 
+上个月是十二月，对不对？ 
+99. Yes, it was. 是，是十二月份。 
+100. What month is next month? 下个月是几月份？ 
+101. I was in the hospital for several weeks. 
+我在医院里住了几个星期了。 
+102. Where were you on Tuesday? 星期二你在哪里？ 
+103. You were here in February, weren’t you? 
+二月份你曾在这里，对不对？ 
+104. No, I wasn’t . 不，我没有在这里。 
+105. Your friend was here a week ago, wasn’t he? 
+一个星期前，你的朋友曾在这里，是不是？ 
+
+106. Do you have a book? 你有一本书吗？ 
+107. Yes, I do. 是的，我有。 
+108. You have a radio, don’t you? 你有一台收音机，对吗？ 
+109. No, I don’t . 不，我没有。 
+110. I don’t have a phonograph, either. 我也没有留声机。 
+111. Dees this radio belong to you? 这台收音机是你的吗？ 
+112. Yes, I think it does. 是的，我认为它是我的。 
+113. How many sisters and brothers do you have? 
+你有几个姊妹和兄弟？ 
+114. Don’t you have my hat? 你没拿我的帽子吧？ 
+115. Yes, I have both your hat and your coat. 
+不，你的帽子和大衣都在我这里。 
+116. Does John have a yellow pencil? 约翰有一支黄铅笔吗？ 
+117. Yes, he does. 是的，他有。 
+118. He has a radio, doesn’t he? 他有一台收音机，对不对？ 
+119. No, he doesn’t have one. 不，他没有。 
+120. He already has a phonograph, but he doesn’t have a radio yet. 
+他已经有一架留声机，但是他还没有收音机。 
+121. What time is it? 几点钟了？ 
+122. It’s two o’clock. 两点钟。 
+
+123. It’s a few minutes after two. 两点过几分。 
+
+124. My watch is fast and your watch Is slow. 
+我的表快，而你的表慢。 
+125. Excuse me. Can you tell me the correct time? 
+对不起，你能告诉我一下准确的时间吗？ 
+126. No, I can’t . 不，我不能。 
+127. I don’t know what time it is. 
+我不知道现在几点钟。 
+128. I don’t think it’s four o’clock yet. 
+我认为现在还不到四点。 
+129. It must be about three thirty. 现在想必是三点三十分左右。 
+
+130. I get up before six o’clock every day. 每天我六点前起床。 
+131. The restaurant doesn’t open until seven forty-five. 
+饭馆要到七点四十五分才开门。 
+132. Will you be here at ten o’clock tomorrow? 
+请你明天十点到这里，行吗？ 
+133. Yes, I will. 行。 
+134. We’ll be on time, won’t we? 我们将按时到，是吗? 
+135. I hope so. 我希望如此。 
+
+136. What’s the date today? 今天是几号？ 
+137. Today is November first, nineteen sixty-three. 
+今天是一九六三年十一月一号。 
+138. When were you born? 你是什么时候出生的？ 
+139. I was born on November first, nineteen thirty-five. 
+我是一九三五年11月1日出生的。 
+140. Today is my birthday. 今天是我的生日。 
+141. My sister was born in nineteen thirty-eight. 
+我的妹妹是一九三八年出生的。 
+142. I don’t know the exact date. 我不知道确切的日子。 
+143. Where were you born? 你出生在什么地方？ 
+144. I was born in a little town not far from here. 
+我出生在离这儿不远的小城市里。 
+145. What do you know about the tenth century? 
+有关十世纪的事你知道些什么？ 
+146. I don’t know anything about that. 
+关于那个我什么都不知道。 
+
+147. Let’s talk about something else. 
+让我们谈点别的什么吧。 
+148. Where were you during the month of April last year? 
+去年四月份你在哪里？ 
+149. I don’t remember where I was then. 
+我不记得那时我在哪里。 
+150. Where will you be nest year at this time? 151. What do you want? 你想要些什么？ 
+152. I want a cup of coffee. 我想来杯咖啡。 
+153. What would you like to eat? 你想吃些什么？ 
+154. Please give me a piece of pie. 请给我来片馅饼。 
+155. Which one would you like--this one or that one? 
+你想要哪一个？这一个还是那一个？ 
+156. It doesn’t matter to me. 随便就可以了。 
+157. I’d like to talk with Mr. Johns or Mr. Smith. 
+我想和约翰先生或史密斯先生讲话。 
+158. I’m sorry, but both of them are busy right now. 
+很抱歉，他们都在忙。 
+159. Wouldn’t you like some coffee? 不想来点咖啡吗？ 
+
+160. I’d rather have some tea, if you don’t mind. 
+如果你不介意的话，请给我来杯茶。 
+161. Do you know any of those people? 你认识这些人吗？ 
+162. Two or three of them look familiar. 我和其中的两三个人比较熟。 
+163. All of those men are friends of mine. 他们都是我的朋友。 
+
+164. Which one of those men is Mr. Taylor? 这些人中哪个是泰勒先生？ 
+165. Is he the tall man on the left? 在左边的那个高个男士是不是他？ 
+明年这个时候你将在哪里？ 
+166. Do you speak English? 你会讲英语吗？ 
+167. Yes, a little. 是的，会一点。 
+168. Does your friend speak English? 你的朋友会讲英语吗? 
+169. Yes, he speaks English perfectly. 会而且讲得很好. 
+170. What’s his native language? 他的母语是什么？ 
+171. I don’t know what his native language is. 
+我不知道他的母语是什么。 
+172. How many languages do you speak? 你能讲几种语言？ 
+173. My friend reads and writes several languages. 
+我的朋友能读写几种语言。 
+174. How well do you know French? 你的法语程度怎样？ 
+175. He speaks French with an American accent. 
+他讲的是带着美国口音的法语。 
+176. My parents speak English perfectly. 
+我父母能讲很好的英语。 
+177. Mr. Jones can speak French pretty well. 
+钟斯先生能讲很好的法语。 
+178. Sometimes I make mistakes when I speak English. 
+有时候, 我会在讲英语时犯一些错误。 
+179. I have a lot of trouble with pronunciation. 
+我的发音存在一些问题。 
+180. How is her accent in French? 他讲法语时的口音怎样？ 
+
+181. What are you doing? 你在干什么？ 
+182. I’m reading a book. 我在看书。 
+183. What’s your friend doing? 你的朋友在干什么？ 
+184. He’s studying his lesson. 他在做他的功课。 
+185. I’m not doing anything right now. 我无事可做。 
+186. Where are you going? 你想去哪？ 
+187. I’m going home. 我想回家。 
+188. What time are you coming back? 你什么时候回来？ 
+189. I’m not sure what time I’m coming back. 
+我不确定我什么时候能回来。 
+190. What are you thinking about? 你在想什么？ 
+191. I’m thinking about my lesson. 我在想我的功课。 
+192. Who are you writing to? 你在给谁写信？ 
+193. I’m writing to a friend of mine in South American. 
+我在给我南美的一位朋友写信。 
+194. By the way, who are you waiting for? 
+顺便问一句，你在等谁？ 
+195. I’m not waiting for anybody. 我谁也不等。 
+
+196. How old are you? 你多大了? 
+197. I’m twenty-one years old. 我21岁了。 
+198. My brother is not quite twenty-five. 
+我的哥哥没有25岁。 
+199. John is not forty-five yet, is he? 
+约翰还没有45岁，是吗？ 
+200. Mr. Smith is still in his fifties. 
+史密斯先生50多岁了。 
+201. I’m two years older than you are. 
+我比你大两岁。 
+202. My brother is two years younger than I am. 
+我的弟弟比我小两岁。 
+203. How many are there in your family? 
+你家几口人？ 
+204. There are seven of us altogether. 
+我家总共七口人。 
+205. My sister is the oldest. 我的姐姐最大。 
+206. I’m the youngest. 我最小。 
+207. Guess how old I am. 猜猜我多大。 
+208. I’d say yor’re about twenty-three. 
+我猜你可能23岁。 
+209. I was thirty on my last birthday. 我 
+已经过了30岁的生日 。 
+210. I’m going to be sixty-one next Tuesday. 
+下周二我就要61岁了。 
+211. What time do you get up every day? 
+你平常几点起床？ 
+212. I usually wake up early. 我通常很早起床。 
+213. I get up at 6 o’clock every day. 我每天6:00起床。 
+214. My brother gets up later than I do. 
+我的哥哥比我起床要晚。 
+215. After I get dressed, I have breakfast. 
+我穿好衣服后吃早餐。 
+216. Usually, I have a big breakfast. 
+通常我的早餐比较丰盛。 
+217. I have juice, toast and coffee for breakfast. 
+我早餐通常有果汁，面包和咖啡。 
+218. I leave the house at eight a. m. each day. 
+每天我都会在早上8:00离开我家。 
+219. I get to work at nine o’clock every morning. 
+我会在每天早上9:00开始工作。 
+220. I work hard all morning. 
+每天早上我都会很努力地工作。 
+221. I go out for lunch at about 12:30. 
+我中午12:30出去吃午餐。 
+222. I finish working at 5:45 p. m. 
+我在下午5:45分完成我的工作。 
+223. I eat dinner at about 7 o’clock. 
+我会在晚上7:00吃晚饭。 
+224. Before I eat dinner, I read the newspaper for a while. 
+在吃晚饭之前，我会看一会报纸。 
+225. I usually go to bed at about midnight. 
+我通常午夜才睡觉。 
+226. What time did you get up yesterday morning? 
+你昨天早上几点钟起的床？ 
+227. I woke up early and got up at 6 o’clock. 
+我醒得很早，在6:00起的床。 
+228. My brother got up earlier than I did. 
+我的哥哥比我起得早。 
+229. Did you get dressed ? 你穿好衣服了吗？ 
+230. Yes, I got dressed and had breakfast. 
+是的，我穿好衣服而且吃完早餐了。 
+231. What kind of breakfast did you have? 
+你吃的什么样的早餐？ 
+232. What time did you get to work yesterday morning? 
+昨天早上你几点钟去上的班？ 
+233. I left the house at 8 o’clock and got to work at 8:30. 
+我 8:00离开的家，8:30开始的工作。 
+234. Did you work all day? 你全天都在工作吗？ 
+235. Yes, I worked from early morning until late at night. 
+是的，我从早上一直工作到深夜。 
+236. At noon I had lunch with a friend of mine. 
+中午，我和朋友去吃的午饭。 
+237. I finished working at 5:30 and went home. 
+我在5:30完成的工作然后回家了。 
+238. After dinner I read a magazine and made some telephone calls. 
+晚饭过后，我看了一期杂志然后打了几个电话。 
+239. I went to bed at 11:30 p. m. 我在晚上11:30上的床。 
+240. I went to sleep immediately and slept soundly all night. 
+我一会就入睡了，而且睡得很好。 
+
+241. Where did you go yesterday? 昨天你去哪了？ 
+242. I went to see a friend of mine. 我去拜访了一位朋友。 
+243. Did you see Mr. Jones yesterday? 昨天你见过钟斯先生吗？ 
+244. I didn’t see Mr. Jones, but I saw John . 
+我没见过，不过我见过约翰先生。 
+245. What did you talk about? 你们刚才在讲什么？ 
+246. We talked about a lot of things. 我们刚才在说一些事情。 
+247. I asked him a lot of questions. 我问了他一些问题。 
+248. What did you ask him? 你问过他什么？ 
+249. I asked him if he spoke English. 我问他是否会讲英语？ 
+250. He said he spoke a little English. 他说他会讲一点。 
+251. Then I asked him if he knew anybody in New York . 
+接着我就问他是否认识在纽约的人？ 
+252. He said he knew a lot of people there. 
+他说他认识很多那里的人。 
+253. Finally, I asked him how old he was. 最后我问他多大了？ 
+254. He said he would rather not tell his age. 
+他说他不想提及他的年龄。 
+255. He answered almost all of my questions. 
+他几乎回答了我所有的问题。 
+256. What time did you use to get up last year? 
+去年你通常几点起床？ 
+257. I used to wake up early and get up at 7 o’clock. 
+我过去常常醒得很早，在7:00左右起床。 
+258. I used to set my alarm clock for exactly 7 a. m. 
+我过去常常把我的闹钟定在上午7:00钟。 
+259. I never used to oversleep. 我从不睡懒觉。 
+260. I used to get dressed quickly every morning. 我通常穿衣服很快。 
+261. I always used to leave for work at 8:30. 我过去常常在8:30去工作。 
+262. I used to start working at 9:00 o’clock every day. 
+我过去常常在每天9:00开始工作。 
+263. I used to have lunch every day at the same time. 
+我过去常常在每天同一时间吃午餐。 
+264. I used to work until nearly 6:00 o’clock each day. 
+我过去常常工作到6:00左右。 
+265. I used to have dinner at 7:30 and go to bed early. 
+我过去常常在7:30吃晚饭，而且睡觉很早。 
+266. My brother and I used to go a lot of places together. 
+我和我哥哥过去常常一起去一些地方。 
+267. We used to go to the movies about once a week. 
+我们过去常常一周去看一次电影。 
+268. We used to have a lot of interesting friends. 
+我们过去有一些很有趣的朋友。 
+269. My brother used to speak French to me all the time. 
+我的哥哥过去总是给我讲法语。 
+270. I always used to ask him a lot of questions. 
+我过去常常问他一些问题。 271. Where do you live? 你住在哪里？ 
+272. I live on Washington Street. 我在华盛顿街住。 
+273. What’s your address? 你的地址是什么？ 
+274. I live at 1203 Washington Street. 
+我住在华盛顿街1203号。 
+275. I’m Mr. Smith’s next door neighbor. 
+我是史密斯先生的邻居。 
+276. You live here in the city, don’t you? 
+你住在这个城市，对吗？ 
+277. I’m from out of town. 我来自城镇。 
+278. How long have you lived here? 你在这住了多久了？ 
+279. I’ve lived here for five years. 我在这住了5年了。 
+280. He’s known me for over ten years. 
+我们相识十余年了。 
+281. I’ve spoken English all my life. 我终生讲英语。 
+282. I’ve already read that book. 我已经读完了那本书。 
+283. Has he studied French very long? 
+他学法语很长时间了吗？ 
+284. Have you had breakfast already? 你吃过早饭了吗？ 
+285. Yes, I had breakfast two hours ago. 
+是的，我在两小时前吃的早饭。 
+286. Where were you yesterday afternoon? 昨天下午你在哪？ 
+287. I was at home all afternoon. 我整个下午都在家。 
+288. I was writing some letters to friends of mine. 
+我给我的朋友写了几封信。 
+289. What were you doing at about 4 o’clock yesterday afternoon? 
+昨天下午四点钟左右你在干什么？ 
+290. I was listening to the radio. 我在听广播。 
+291. What were you doing when I called you on the telephone? 
+我给你打电话时, 你在干什么？ 
+292. When you called me, I was eating dinner. 
+你给我打电话时, 我在吃晚饭。 
+293. When I saw Mr. Jones, he was talking with John Smith. 
+我看到钟斯先生时，他在和约翰史密斯讲话。 
+294. While you were writing letters, I was reading a book. 
+你写信时我在看书。 
+295. While we were having breakfast, John was talking on the telephone. 
+当我们吃早餐时，约翰在打电话。 
+296. Can you guess what I was doing this morning? 
+猜猜看我今天早上在干什么？ 
+297. I can’t remember what John was doing yesterday afternoon. 
+我记不起昨天下午约翰在干什么了。 
+298. I’ve forgotten what he said his address was. 
+我把他所说的他家的地址给忘了。 
+299. I’ve forgotten what time he said he had dinner last night. 
+我忘记了他昨晚几点钟吃的晚饭了？ 
+300. They called us just as we were having dinner. 
+他们叫我们时，我们在吃晚饭。 
+301. What color is your book? 你的书本是什么颜色的？ 
+302. My book has a dark blue cover. 我的书本的封面是深蓝色的。 
+303. How much does that typewriter weigh? 那个打字机有多重？ 
+304. It’s not too heavy, but I don’t know the exact weight. 
+它不是很重，但是我不知道它的精确重量。 
+305. This round table weighs about forty-five pounds. 
+这张圆桌子重45磅。 
+306. What size suitcase do you own? 你的小提箱是什么尺码的？ 
+307. One of my suitcases is small, and the other one is medium size. 
+其中一个提箱是小号的，另一个是中号的。 
+308. I like the shape of that table. 我喜欢那张桌子的形状。 
+309. How long is Jones Boulevard Street? 
+Jones Boulevard街有多长？ 
+310. That street is only two miles long. 那条街只有两英里长。 
+311. Will you please measure this window to see how wide it is? 
+你能量量这个窗户，来确定它有多宽吗 
+312. This window is just as wide as that one. 
+这个窗户仅仅和那个一样宽。 
+313. The walls are three inches thick. 这些墙有三英尺厚。 
+314. This material feels soft. 这种材料摸上去很软。 
+315. This pencil is longer than that one. 这个铅笔比另一个长。 
+316. Would you please tell Mr. John that I’m here？ 
+你能告诉约翰先生我在这吗？ 
+317. Take these books home with you tonight. 
+今晚请把这些书带回家。 
+318. Please bring me those magazines. 
+请把那些杂志给我带来。 
+319. Would you help me lift this heavy box? 
+你能帮我将这个重盒子抬起来吗？ 
+320. Please ask John to turn on the lights. 
+请告诉约翰把灯打开。 
+321. Put your books down on the table. 
+将你的书放在桌子上。 
+322. Get me a hammer from the kitchen, will you? 
+从厨房里给我拿个锤子，好吗？ 
+323. Hang up my coat in the closet , will you please? 
+能将我的大衣挂在壁橱里吗？ 
+324. Please don’t bother me now. I’m very busy. 
+现在请别打搅我，我在忙。 
+325. Would you mind mailing this letter for me? 
+你介意帮我发这封邮件吗？ 
+326. If you have time, will you call me tomorrow? 
+如果你有时间，明天给我打电话好吗？ 
+327. Please pick up those cups and saucers. 
+请将那些茶杯和茶托整理好。 
+328. Will you do me a favor? 你能帮个忙吗？ 
+329. Please count the chairs in that room. 
+请数一下那个房间里的椅子的数目。 
+330. Please pour this milk into that glass. 
+请将这些牛奶到进玻璃杯里。 
+331. Excuse me, sir. Can you give me some information? 
+先生，打搅一下，你能告诉我一些信息吗？ 
+332. Can you tell me where Peach Street is? 
+你能告诉我Peach Street在哪吗？ 
+333. It’s two blocks straight ahead. 
+向前一直走，过两个街区就到了。" 
+334. Which direction is it to the theatre? 
+去戏院应走哪个方向？ 
+335. Turn right at the next corner。 在下个路口向右拐。 
+336. How far is it to the university? 到大学还有多远？ 
+337. It’s a long way from here. 从这算起还有很长的一段路。 
+338. The school is just around the corner. 学校就在拐角处。 
+339. The restaurant is across the street from the hotel. 
+旅馆穿过街道。 
+340. You can’t miss it. 你不会错过的。 
+341. Do you happen to know Mr. Cooper’s telephone number? 
+你知道Cooper先生的电话号码吗？ 
+342. Could you tell me where the nearest telephone is? 
+你能告诉我最近的电话在哪吗？ 
+343. Should I go this way, or that way? 
+我应走这条路还是那条？ 
+344. Go that way for two blocks, then turn left. 
+走那条路，穿过两个街区后向左拐。 
+345. I beg your pardon. Is this seat taken? 
+请问，这个座位有人坐了吗？ 
+346. Are you married? 你结婚了吗？ 
+347. No, I’m not married. I’m still single. 
+没有，我仍然单身。 
+348. Your niece is engaged, isn’t she? 
+你的侄女订婚了是吗？ 
+349. My sister has been engaged for two months. 
+我妹妹订婚两个月了。 
+350. My grandfather got married in 1921. 
+我祖父1921年结地婚。 
+351. When is grandparents’ wedding anniversary? 
+什么时候是你祖父母的结婚纪念日？ 
+352. How long have they been married? 他们结婚多久了？ 
+353. They’ve been married for quite a few years. 
+他们结婚好些年了。 
+354. Who did George marry? 乔治和谁结婚了？ 
+355. Do they have children? 你有孩子了吗？ 
+356. They had a baby last month. 他们上个月有的孩子。 
+357. My son wants to get married in June. 
+我的儿子打算六月份结婚。 
+358. They don’t know when the wedding will be. 
+他们不知道什么时候举行婚礼。 
+359. Their grandchildren are grown up now. 
+他们的孙子长大了。 
+360. She’s a widow. Her husband died last year. 
+她是个寡妇，他丈夫死于去年。 
+
+361. Where did you grow up? 你在哪长大？ 
+362. I grew up right here in this neighborhood. 
+我就在这临近长大。 
+363. My friend spent his childhood in California . 
+我的朋友童年在加利福尼亚度过。 
+364. He lived in California until he was seventeen. 
+他十七岁以前都在加利福尼亚居住。 
+365. There have been a lot of changes here in the last 20 years. 
+在过去的二十年间, 这里发生了很多的变化。 
+366. There used to be a grocery store on the corner. 
+以前拐角处有一个杂货店。 
+367. All of those houses have been built in the last ten years. 
+所有的房子都是在最近十年里建成的。 
+368. They’re building a new house up the street . 
+这个街上正在建一个新房子。 
+369. If you buy that home, will you spend the rest of your life there? 
+如果你买了那间房，你会在那度过你的余生吗？ 
+370. Are your neighbors very friendly? 你的邻居们友好吗？ 
+371. We all know each other pretty well. 
+我们彼此之间有很深的了解。 
+372. A young married couple moved in next door to us. 
+一对新婚夫妇搬进了我们隔壁。 
+373. Who bought that new house down the street from you? 
+谁买了你们街上那头的新房？ 
+374. An old man rented the big white house. 
+一个老人租了那个大的白房子。 
+375. What beautiful trees those are! 多漂亮的树呀！ 
+376. What time are you going to get up tomorrow morning? 
+明天早上你打算几点起床？ 
+377. I’ll probably wake up early and get up at 6:30. 
+我可能会起的比较早，大约在6:30起床。 
+378. What will you do then? 然后你做些什么呢？ 
+379. After I get dressed, I’ll have breakfast. 
+穿上衣服后我将吃早饭。 
+380. What will you have for breakfast tomorrow morning? 
+明天的早餐你吃什么呢？ 
+381. I’ll probably have eggs and toast for breakfast. 
+早餐我可能会吃土司面包和鸡蛋。 
+382. After breakfast, I’ll get ready to go to work. 
+吃完早餐后我会准备一下去上班。 
+383. I’ll leave the house at 8:00 and get to the office at 8:30. 
+我将会在8:00离开房间然后在8:30到达办公室。 
+384. I’ll probably go out for lunch at about 12:30. 
+我将会在12:30去吃午饭。 
+385. I’ll finish working at 5:30 and get home by 6 o’clock. 
+我将在5:30完成工作然后在6:00前到家。 
+386. Are you going to have dinner at home tomorrow night? 
+明天晚上你会在家吃晚餐吗？ 
+387. Do you think you’ll go to the movies tomorrow night? 
+明天晚上你会去看电影吗？ 
+388. I’ll probably stay home and watch television. 
+我可能呆在家看电视。 
+389. When I get sleepy, I’ll probably get ready for bed. 
+当我感到困的时候，我就准备上床睡觉。 
+390. Do you think you’ll be able to go to sleep right away? 
+你现在能去睡觉吗？ 
+391. How is the weather today? 今天的天气怎样？ 
+392. The weather is nice today. 今天天气很好。 
+393. What was the weather like yesterday? 
+昨天天气怎样？ 
+394. Yesterday it rained all day. 昨天下了一天的雨。 
+395. What will the weather be like tomorrow? 
+明天天气怎样？ 
+396. It’s going to snow tomorrow. 明天有雪。 
+397. It’s quite cold today. 今天真冷。 
+398. It’s been cloudy all morning. 整个早上都多云。 
+399. Is it raining now? 现在在下雨吗？ 
+400. It’ll probably clear up this afternoon. 
+今天下午可能会晴天。 
+401. The days are getting hotter. 天气在转暖。 
+402. Today is the first day of spring. 今天是春天的第一天。 
+403. What’s the temperature today? 今天的气温是多少？ 
+404. It’s about seventy degrees Fahrenheit this afternoon. 
+今天下午华氏温度70度。 
+405. There’s a cool breeze this evening. 今晚有股冷风。 
+406. How are you feeling today? 今天感觉怎样？ 
+407. I don’t feel very well this morning. 
+今天早上我感觉并不好。 
+408. I was sick yesterday, but I’m better today. 
+昨天我病了，不过今天好了。 
+409. My fever is gone, but I still have a cough. 
+我已经不发烧了，不过仍咳嗽。 
+410. My brother has a bad headache. 我哥哥很头痛。 
+411. Which of your arms is sore? 你的哪个胳膊痛？ 
+412. My right arm hurts. It hurts right here. 
+我的右胳膊受伤了。它就伤在这儿。 
+413. What’s matter with you? 你怎么了？ 
+414. I’ve got a pain in my back. 我背痛。 
+415. Which foot hurts?Is it the left one? 
+哪个脚受伤了？是不是左边的脚？ 
+416. How did you break your leg? 你怎样弄伤的脚？ 
+417. I slipped on the stairs and fell down. I broke my leg. 
+我在楼梯上滑了一下摔倒了，就弄伤了我的脚。 
+418. Your right hand is swollen. Does it hurt? 
+你的右手肿了。是不是受伤了？ 
+419. It’s bleeding. You’d better go see a doctor about that cut. 
+你的伤口在流血，你最好去医生那看看。 
+420. I hope you’ll be well soon. 希望你快些好。 
+421. I get out of bed about 7 oclock every morning. 
+每天早上我7:00起床。 
+422. After getting up, I go into the bathroom and take a shower. 
+起来以后我会进浴室冲个澡。 
+423. Then, I brush my teeth and comb my hair. 然后我刷牙梳头。 
+424. After brushing my teeth, I put on my clothes. 我刷完牙后穿衣。 
+425. After that, I go downstairs to the kitchen to have breakfast. 
+然后，我下楼到厨房去吃早饭。 
+426. After eating breakfast, I go back upstairs again. 
+吃完早饭后，我再上楼。 
+427. Then, it’s usually time to wake up my little brother. 
+这时通常到了我叫醒我小弟弟的时间了。 
+428. He can’t dress himself yet because he’s too young. 
+因为他太小，他还不会自己穿衣。 
+429. I wash his face and hands, and then I dress him. 
+我给他洗脸洗手，然后给他穿衣。 
+430. He tries to button his own shirt, but he can’t do it. 
+他试着自己系纽扣，但总是失败。 
+431. My little brother takes a bath before he goes to bed at night. 
+我的弟弟在晚上上床之前通常洗个澡。 
+432. He always forgets to wash behind his ears. 
+他总是忘记洗耳朵的后面。 
+433. I’m always tired when I come home from work. 
+下班以后我通常很累。 
+434. At bedtime, I take off my clothes and put on my pajamas. 
+晚上我脱掉我的衣服，换上睡衣。 
+435. I get into bed at about 11:30 and go right off to sleep. 
+我11:30上床睡觉，一会就会入睡。 
+436. What do you think?Is that right? 
+你认为怎样？是否正确？ 
+437. Cetainly. You’re absolutely right about that. 
+当然，你完全正确。 
+438. I think you’re mistaken about that. 
+我觉得你是错误的。 
+439. I like hot weather best. 我最喜欢热天气。 
+440. Personally, I prefer winter weather. 
+就我个人而言，我比较喜欢冬天的天气。 
+441. Do you think it’s going to rain tomorrow? 
+你认为明天会下雨吗？ 
+442. I don’t know whether it will rain or not. 
+我不知道明天会不会下雨。 
+443. In my opinion, that’s an excellent idea. 
+我认为这是个好主意。 
+444. Why Mr. Cooper so tired?Do you have any idea? 
+为什么Cooper先生这么累？你知道吗？ 
+445. He’s tired because he worked hard all day today. 
+因为他工作了一整天，所以很累。 
+446. What do you think of my children? 你觉得我的孩子怎样？ 
+447. I think you have very attractive children. 
+我觉得你有很讨人喜欢的小孩儿。 
+448. Please give me your frank opinion. 
+请告诉我你真实的想法。 
+449. Do you really want to know what I think? 
+你真想知道我在想什么吗？ 
+450. Of course I want to know what your opinion is. 
+当然，我很想知道你的观点。 
+451. What do you plan to do tomorrow? 
+明天你打算干什么？ 
+452. I doubt that I’ll do anything tomorrow. 
+明天恐怕我什么也不做。 
+453. Please excuse me for a little while. I want to do something. 
+对不起，稍等会儿，我要办点事。 
+454. I imagine I’ll do some work instead of going to the movies. 
+我想干点事，不去看电影。 
+455. Will it be convenient for you to explain your plans to him? 
+你把你的计划向他讲一下，方便吗? 
+456. There’s nothing to do because tomorrow is a holliday. 
+明天没事做的，因为明天是周末。 
+457. What’s your brother planning to do tomorrow? 
+你哥哥明天计划去哪儿？ 
+458. He can’t decide what to do. 
+他无法决定该做什么。 
+459. It’s difficult to make a decision without knowing all the facts. 
+不知道全部事实而去作决定是困难的。 
+460. We’re trying to plan our future. 我们在努力计划我们的未来。 
+461. That’s a good idea. 好想法。 
+462. I’m hoping to spend a few days in the mountains. 
+我希望在山上消磨几天。 
+463. Would you consider going north this summer? 
+你考虑今年夏天去北方吗？ 
+464. If there’s a chance you’ll go, I’d like to go with you. 
+如果你有机会去的话，我想和你一起去。 
+465. After you think it over, please let me know what you decide. 
+在你仔细考虑之后，请让我知道你决定怎么做。 466. I’m anxious to know what your decision is. 
+我很想知道你的决定。 
+467. I’m confident you’ve made the right choice. 
+我很有信心，你做了个正确的决定。 
+468. I want to persuade you to change your mind. 
+我希望能劝说你，以改变你的观点。 
+469. Will you accept my advice? 你会接受我的建议吗？ 
+470. What have you decided? 你决定了什么？ 
+471. I’ve definitely decided to go to California. 
+我一定去过加利福尼亚。 
+472. He didn’t want to say anything to influence my decision. 
+他什么都不想说，以免影响我的决定。 
+473. She refuses to make up her mind. 她拒绝下决心。 
+474. I assume you’ve decided against buying a new car. 
+我猜想你已经下定决心不再买新车了。 
+475. It took him a long time to make up his mind. 
+他用了很久才下定决心。 
+476. You can go whenever you wish. 你可以去你想去的地方。 
+477. We’re willing to accept your plan. 我们打算接受你的计划。 
+478. He knows it’s inconvenient , but he wants to go anyway. 
+他知道不方便，但他无论如何都想走。 
+479. According to Mr. Green, this is a complicated problem. 
+听格林先生讲，这是一个复杂的问题。 
+480. She insists that it doesn’t make any difference to her. 
+她坚信那不会给她带来任何不同。 
+
+
+日常英语口语900句(下） 
+481. Are you going to go any place this year? 
+今年你打算去其他地方吗？ 
+
+482. If I have enough money, I’m going to take a trip abroad. 
+如果我有足够的钱，我就会出国旅行。 
+
+483. How are you going?Are you going by boat? 
+你打算怎样去？是不是打算乘船去？ 
+
+484. It’s faster to go by plane than by boat. 坐飞机比坐船快。 
+
+485. What’s the quickest way to get there? 
+到那儿最快的交通方式是什么？ 
+
+486. Altogether it will take ten days to make the trip. 
+这次旅行可能要花费十天的时间。 
+
+487. I hope you have a good time on your trip. 祝你旅途愉快。 
+
+488. I’m leaving tomorrow, but I haven’t packed my suitcases yet. 
+我明天出发，但是现在还没有整理好我的箱子。 
+
+489. I’m going by air. I like flying. 我打算坐飞机去，我喜欢乘飞机。 
+
+490. My brother took a trip to Mexico. 我哥哥去了莫斯科旅行。 
+
+491. It was a six-hour flight. 这是6小时的航程。 
+
+492. How many passengers were on the train? 火车上有多少乘客？ 
+
+493. His friend was injured in an airplane crash. 
+他的朋友在飞机事故中受伤。 
+
+494. Would you like to go for a walk? 你喜欢去散散步吗？ 
+
+495. Let’s go out to the airport. The plane landed ten minutes ago. 
+让我们去机场。飞机在十分钟前就已经着陆了。 
+496. I’m going shopping because I need to buy some clothes. 
+我想去商店，因为我需要买些衣服。 
+
+497. If this shirt doesn’t fit, may I bring it back later? 
+如果这个衬衫不合身，我能将它带回来吗？ 
+
+498. What size shoes do you wear?你穿多大号的鞋？ 
+
+499. That suit looks very good on you. 你穿这个外套很合身。 
+
+500. This dress is made of silk, isn’t it? 
+这件衣服以丝绸为材料，是吗？ 
+
+501. I’d like to try on this sweater. 我很想试一下这件毛衣。 
+
+502. I’m interested in buying a new car. 我很想买辆新车。 
+
+503. What’s the price of that electric iron?那个熨斗多少钱？ 
+
+504. How much is this rug?这个地毯多少钱？ 
+
+505. Is this toothpaste on sale today?今天有牙膏卖吗？ 
+
+506. That’s a beautiful leather wallet, but it costs too much. 
+这个皮钱夹很漂亮，但是太贵了。 
+
+507. How much do I owe you?我欠你多少钱？ 
+
+508. That will be eighteen dollars and seventy-five cents. 
+可能有18美元，外加75美分。 
+
+509. Do you have change for a twenty-dollar bill? 
+你能换开20美元的钱吗？ 
+
+510. The clerk helped me find what I wanted. 
+这个职员帮我找到了我所需要的东西。 
+
+511. What would you like to eat? 你想吃什么？ 
+
+512. I’d like a bowl of tamoto soup, please. 
+请给我来碗西红柿汤。 
+
+513. The waiter seems to be in a hurry to take our order. 
+这个服务员看起来很着急的记下了我们所点的东西。 
+
+514. Which would you rather have--steak or fish? 
+你想来点什么？牛排还是鱼？ 
+
+515. I want my steak well-done. 我想要全熟的牛排。 
+
+516. What kinds of vegetables do you have? 你想要哪种蔬菜？ 
+
+517. I’ll have mashed potatoes . 我想要些土豆泥。 
+
+518. Would you please pass the salt? 你能把盐递过来吗？ 
+
+519. They serve good food in this restaurant. 
+在这个饭店中，他们供应很好的食物。 
+
+520. Are you ready for your dessert now? 你准备好吃点心了吗？ 
+
+521. This knife is dirty. Would you bring me a clean one, please? 
+这把刀子已经很脏了，你能带一个干净的来吗？ 
+
+522. May I check, please? 我能检查一下吗？ 
+
+523. You have your choice of three flavors of ice cream. 
+你能选择三种口味的冰淇淋。 
+
+524. We have vanilla, chocolate, and strawberry. 
+我们有香草味的，巧克力味的，草莓味的。 
+
+525. We invited two guests to dinner, but they didn’t come. 
+我们邀请了两位客人来吃晚餐，但是他们没有来。 
+
+526. How long did the movie last? 
+电影持续了多久？ 
+
+527. The feature started at 9 o’clock and ended at 11:30. 
+特写从九点种开始，一直持续到十一点半。 
+
+528. They say the new film is an adventure story. 
+他们讲，这个新影片是一个冒险。 
+
+529. A group of us went out to the theater last night. 
+昨天晚上我们去了戏院。 
+
+530. The new play was good and everybody enjoyed it. 
+这个新的戏剧很好，人们都喜欢。 
+
+531. By the time we got there, the play had already begun. 
+到我们到达时，戏剧已经开始了。 
+
+532. The usher showed us to our seats. 
+服务员把我们带到了坐位前。 
+
+533. The cast of the play included a famous actor. 
+这场戏剧的演员阵容里有一个很著名的演员。 
+
+534. After the play was over, we all wanted to get something to eat. 
+戏剧结束了以后，我们都想去吃点东西。 
+
+535. There was a big crowd and we had difficulty getting a taxi. 
+这里人很多，我们很难打到车。 
+
+536. The restaurant was filled, so we decided to go elsewhere. 
+这个饭店人已经满了，我们不得不去别处。 
+
+537. My brother wants to learn how to dance. 我弟弟想学跳舞。 
+
+538. We don’t go dancing very often. 我们不经常去跳舞。 
+
+539. Which would you rather do--go dancing or go to cinema? 
+你想干什么？去跳舞还是去看电影？ 
+
+540. I’m not accustomed to going out after dark. 我不习惯晚上出去。 
+
+541. I’d like to make an appointment to see Mr. Cooper. 
+我想约定好时间去看看Cooper先生。 
+
+542. Would you like to arrange for a personal interview? 
+你想安排一个个人采访吗？ 
+
+543. Your appointment will be next Thursday at 10 o’clock. 
+你的约会安排在下周四十点。 
+544. I can come any day except Thursday. 我除了星期四每天都能来。 
+
+545. He wants to change his appointment from Monday to Wednesday. 
+他想将他的约会从周一改为周三。 
+
+546. She failed to call the office to cancel her appointment. 
+她没能让办公室取消她的约会。 
+
+547. I’m going to call the employment agency for a job. 
+我打算去招聘办公室去应聘。 
+
+548. Please fill in this application form. 请填写这张申请表。 
+
+549. Are you looking for a permanent position? 
+你想应聘一个永久性职位吗？ 
+
+550. I’m going to call a plumber to come this afternoon. 
+我想打个电话让铅管工今天下午来。 
+
+551. I couldn’t keep the appointment because I was sick. 
+我不能守约了，因为我病了。 
+
+552. I’m a new employee. I was hired yesterday. 
+我是一个新雇员。我昨天被录用的。 
+
+553. Please call before you come, otherwise we might not be home. 
+请在你来之前打个电话，不然我们有可能不在家。 
+
+554. Let’s make a date to go shopping next Thursday. 
+让我们约定好下周四去商店。 
+
+555. Will you please lock the door when you leave? 
+你离开时能把门锁上吗？ 
+
+556. I went to see my doctor for a check-up yesterday. 
+我昨天想去我的医生那去检查检查。 
+
+557. The doctor discovered that I’m a little overweight. 
+医生发现我有些超重。 
+
+558. He gave me a chest X-ray and took my blood pressure. 
+他让我做了个x射线的胸透，给我又量了量血压。 
+
+559. He told me to take these pills every four hours. 
+他告诉我每四小时吃次药。 
+
+560. Do you think the patient can be cured? 
+你觉得这个病人能被治愈吗？ 
+
+561. They operated on him last night. 昨天晚上他们给他做了手术。 
+
+562. He needed a blood transfusion. 他需要输血。 
+
+563. My uncle had a heart attack last year. 
+我叔叔去年得了心脏病。 
+
+564. They had to call in a heart specialist. 
+他们需要一个心脏病专家。 
+
+565. What did the doctor say? 医生说什么？ 
+
+566. The doctor advised me to get plenty of exercise. 
+医生建议我多做些运动。 
+
+567. The doctor said I look pale. 
+医生说我看起来很苍白。 
+
+568. If I want to be healthy, I have to stop smoking cigarettes. 
+如果我想健康的话，我不得不戒烟。 
+
+569. The physician said smoking is harmful to my health. 
+内科医生告诉我吸烟有害健康。 
+
+570. It’s just a mosquito bite. There’s nothing to worry about. 
+只是被蚊子叮了下，不必担心。 
+
+571. You’re wanted on the telephone. 有你的电话。 
+
+572. What number should I dial to get the operator? 
+我想接通接线员的电话，我应拨打什么号码？ 
+
+573. I want to make a long distance call. 我想打个长途。 
+
+574. Pick up the receiver and deposit a coin in the slot. 
+拿起话筒，然后将硬币投进硬币口中。 
+
+575. I tried to call Mr. Cooper, but the line was busy. 
+我想给Copper先生打电话，但是线路一直很忙。 
+
+576. You must have dialed the wrong number. 你一定打错电话了。 
+
+577. I dialed the right number, but nobody answered. 
+我拨的号码正确，但是没有人接听。 
+
+578. The telephone is ringing, would you answer it, please? 
+电话铃响了，你能接下电话吗？ 
+
+579. Would you like to leave a message? 你想留下什么口信儿吗？ 
+
+580. Who is this?I don’t recognize your voice. 
+你是谁？我听不出你的声音。 
+
+581. Would you please tell Mr. Cooper I called? 
+你能告诉Cooper先生我打过电话吗？ 
+
+582. Is this Empire 5-4093? 是帝国5-4093吗？ 
+
+583. I have to hang up now. 现在我不得不挂断电话。 
+
+584. Put the receiver closer to your mouth. I can’t hear you. 
+将话筒靠近你的嘴，我听不见你的声音。 
+
+585. Would you mind calling back sometime tomorrow? 
+你介意明天再打过来吗？ 
+
+586. How long has it been since you’ve heard from your uncle? 
+从你得到你的叔叔的信儿到现在已经多久了？ 
+
+587. When was the last time he wrote you ? 
+他最后一次给你写信是什么时候？ 
+
+588. I can’t recall how long it’s been. 
+我不能记起那是多久前了。 
+
+589. I’m always disappointed when I don’t get any mail. 
+我在收不到邮件时，总是很失望。 
+
+590. I feel guilty because I haven’t written her lately. 
+我总觉得该受责备，因为我后来没有给她回信。 
+
+591. What time is the mail delivered on Saturday? 
+一般周六什么时候送邮件？ 
+
+592. The postman always comes at 2 oclock. 邮递员通常在两点来。 
+
+593. I wrote to my uncle last night. I couldnt put it off any longer. 
+我昨晚给我叔叔写了封信。我不能再托了。 
+
+594. I enclosed some photographs in my letter. 我在信里加了几张照片。 
+
+595. I didn’t know whether to send the letter airmail or not. 
+我不知道是否该寄航空信？ 
+
+596. How long does it take for a letter to get to California ? 
+一封信要多久才能到加利福尼亚？ 
+
+597. Don’t forget to put stamps on the letter before you mail it. 
+在你邮寄前别忘了贴邮票。 
+
+598. He went to the post office to mail a letter. 他去邮局邮信了。 
+
+599. I dropped the letter in the mailbox on the corner. 
+我在拐角处将信放在了邮箱里。 
+
+600. How did you sign the letter? Did you write, “sincerely yours”? 
+你怎样在信上填写，是601. A strange thing happened to me this morning. 
+今天早上我发生了一件奇怪的事。 
+601. A strange thing happened to me this morning. 
+今天早上我发生了一件奇怪的事。 
+
+602. I was crossing the street and was almost hit by a car. 
+我穿过马路时差点被车撞伤。 
+
+603. Fortunately, I jumped back in time to avoid being hit. 
+幸运的是为了躲避被撞伤，我往后跳了下。 
+
+604. It was a terrible experience, and I won’t forget it. 
+真是个另人害怕的经历，我不会忘了。 
+
+605. Yesterday was such a beautiful day we decided to go for a drive. 
+昨天天气很好，所以我们开车去玩。 
+
+606. We prepared a picnic lunch and drove down by the river. 
+我们为野餐做准备，而且沿着小河而下。 
+
+607. After a while, we found a shady place under some poplar trees. 
+过了一会儿，我们在杨树下发现了阴凉的树阴。 
+
+608. On the way back home, we were tired. 回来的路上，我们都很累了。 
+
+609. It was after dark when we got back, and we were all tired. 
+我们回来时都已经很晚了，而且我们都很累。 
+
+610. I wish you would give me a more detailed description of your trip. 
+我希望你能更详细地描述一下你的旅行。 
+
+611. Speaking of trips, did I ever tell you about the experience I had? 
+说到旅行，我以前没有对你谈到我的经历吗？ 
+
+612. We used to have a lot of fun when we were that age. 
+那时我们经常有很多乐趣。 
+
+613. I can’t recall the exact circumstances. 
+我不能准确得回忆起当时的环境了。 
+
+614. I never realized that someday I would be living in New York. 
+我从没有想过，有一天我能住在纽约。 
+
+615. We never imagined that John would become a doctor. 
+我们从来没有想过约翰会成为一个医生。 
+
+616. We’re looking for a house to rent for the summer. 
+我们在寻找一间房子，想在夏天租住。 
+
+617. Are you trying to find a furnished house? 
+你是不是在寻找一间装修过的房子？ 
+
+618. This split-level house is for rent. It’s a bargain. 
+这间分层的房间正在求租。价格很合理。 
+
+619. That house is for sale. It has central heating. 
+那间房子在出售。它是中央供暖的。 
+
+620. We have a few kitchen things and a dining room set. 
+我们有一些厨房用具和一套餐厅设备。 
+
+621. This is an interesting floor plan. Please show me the basement. 
+这是一个有趣的楼层计划。请带我到地下室去看看。 
+
+622. The roof has leaks in it, and the front steps need to be fixed. 
+屋顶内部有漏洞了，前面台阶也需要装修。 
+
+623. We’ve got to get a bed and a dresser for the bedroom. 
+我们在居住室中放置了一张窗和一个化妆台。 
+
+624. Does the back door have a lock on it? 
+后门有锁吗？ 
+
+625. They’ve already turned on the electricity. The house is ready. 
+他们已经打开了电器。房间已经准备好了。 
+
+626. I’m worried about the appearance of the floor. 
+我担心地板的表面。 
+
+627. If you want a towel, look in the linen closet. 
+如果你需要枕巾的话，可以在亚麻制品壁橱中看看。 
+
+628. What style furniture do you have ? Is it traditional? 
+你有什么样式的家具？是传统型的吗？ 
+
+629. We have drapes for the living room, but we need kitchen curtains. 
+在起居室中我们有些布帘，但是厨房中我们也需要一些窗帘。 
+
+630. The house needs painting. It’s in bad condition. 
+房子需要装饰。房子现在的状况比较糟糕。 
+
+631. What do you going to wear today? 今天你想穿什么？ 
+
+632. I’m going to wear my blue suit. Is that all right? 
+我想穿我的兰色外套。它准备好了吗？ 
+
+633. I have two suits to send to the cleaners. 
+我将我的两件外套送到了清洗员那儿。 
+
+634. I have some shirts to send to the laundry. 
+我将我的一些衬衫送到了洗衣房。 
+
+635. You ought to have that coat cleaned . 
+你应该干洗一下那件的外套。 
+
+636. I’ve got to get this shirt washed and ironed. 
+我已经将我的这件衬衫洗和熨过了。 
+
+637. All my suits are dirty. I don’t have anything to wear. 
+我的外套都脏了。我没有穿的了。 
+
+638. You’d better wear a light jacket. It’s chilly today. 
+你最好穿件皮夹克。今天有些冷。 
+
+639. This dress doesn’t fit me anymore. 
+这件衣服已不合我身了。 
+
+640. I guess I’ve outgrown this pair of trousers. 
+我猜我现在已经超过我裤子长了。 
+
+641. These shoes are worn-out. They’ve lasted a long time. 
+这些鞋已经磨破了。它们撑了好久了。 
+
+642. I can’t fasten this collar button. 我系不上这个领子扣。 
+
+643. Why don’t you get dressed now? Put on your work clothes. 
+为何现在不着装呢？穿上你的工作服。 
+
+644. My brother came in, changed his clothes, and went out again. 
+我的母亲进来了，换好衣服后又出门了。 
+
+645. I didn’t notice you were wearing your new hat. 
+我没注意到你带了新帽子。 
+
+646. You have your point of view, and I have mine. 
+你有你的观点，我有我的观点。 
+
+647. You approach it in a different way than I do. 
+你以不同于我的方式探讨它。 
+
+648. I won’t argue with you, but I think you’re being unfair. 
+我不想和你争辩，但是我相信你是错误的。 
+
+649. That’s a liberal point of view. 这是一个自由的见解。 
+
+650. He seems to have a lot of strange ideas. 
+他看上去总有很多奇怪的想法。 
+
+651. I don’t see any point in discussing the question any further. 
+我并没有看到涉及到进一步讨论地问题的观点。 
+
+652. What alternatives do I have? 我还有什么方法？ 
+
+653. Everyone is entitled to his own opinion. 
+每个人都有自己的观点。 
+
+654. There are always two sides to everything. 
+任何事物都有两面性。 
+
+655. We have opposite views on this. 
+关于这个问题，我有不同的观点。 
+
+656. Please forgive me. I didn’t mean to start an argument. 
+请原谅。我并不想引起争论。 
+
+657. I must know your opinion. Do you agree with me? 
+我必须了解你的想法。你同意我吗？ 
+
+658. What point are you trying to make? 
+你想做出什么决定？ 
+
+659. Our views are not so far apart, after all. 
+毕竟我们的观点并没有如此大的分歧。 
+
+660. We should be able to resolve our differences. 
+我们需要解决分歧。 
+
+661. If it doesn’t rain tomorrow, I think I’ll go shopping. 
+如果明天不下雨的话，我会去商店。 
+
+662. There’s a possibility we’ll go, but it all depends on the weather. 
+我们有可能去，但是要依天气而定。 
+
+663. If I have time tomorrow, I think I’ll get a haircut. 
+如果我明天有空的话，我会去剪剪头发。 
+
+664. I hope I remember to ask the barber not to cut my hair too short. 
+我希望我能提醒理发师别给我剪得太短。 
+
+665. My son wants to be a policeman when he grows up. 
+我的儿子想长大后当警察。 
+
+666. If I get my work finished in time, I’ll leave for New York Monday. 
+如果我能及时完成我的工作的话，我将在周一去纽约。 
+
+667. Suppose you couldn’t go on the trip. How would you feel? 
+设想一下，如果你不能继续你的旅程，你会有什么感觉？ 
+
+668. What would you say if I told you I couldn’t go with you? 
+如果我告诉你我不能和你一起去，你会说什么？ 
+
+669. If I buy the car, I’ll have to borrow some money. 
+如果我想买那辆车的话，我需要借些钱。 
+
+670. If I went with you, I’d have to be back by six o’clock. 
+如果我和你一起去的话，我不得不在六点前回来。 
+
+671. One of these days, I’d like to take a vacation. 
+这些天中我将请个假。 
+
+672. As soon as I can, I’m going to change jobs. 
+只要我能，我就想换工作。 
+
+673. There’s a chance he won’t be able to be home for Christmas. 
+这是一个机会，他不能因为圣诞节而回家。 
+
+674. We may be able to help you in some way. 
+我们可能会以某种方式帮助你。 
+
+675. If you were to attend the banquet , what would you wear? 
+如果你去参加宴会，你想穿什么？ 
+
+676. What would you have done last night if you hadn’t had to study? 
+昨天晚上如果你不需要学习的话，你会做什么？ 
+
+677. I would have gone on the picnic if it hadn’t rained. 
+如果没有下雨的话，我将会去野炊。 
+
+678. If you had gotten up earlier, you would have had time for breakfast. 
+如果你起的早点的话，你将会有时间吃早餐。 
+
+679. If I had had time, I would have called you. 
+如果我有时间，我就会给你打电话。 
+
+680. Would he have seen you if you hadn’t waved to him? 
+如果你不象他挥手的话，他会不会看见你？ 
+
+681. If he had only had enough money, he would have bought that house. 
+如果他能有足够的钱的话，他会买那所房子。 
+
+682. I wish you had called me back the next day, as I had asked you to. 
+可惜你没有按照我的要求，在第二天给我回个电话。 
+
+683. If you hadn’t slipped and fallen, you wouldn’t have broken your leg. 
+如果你没滑跌倒，你就不会摔断了腿。 
+
+684. If I have known you want to go, I would have called you. 
+如果我知道你想去，我本会叫你的。 
+
+685. Had I known you didnt have got the key, I wouldnt have locked the door. 
+如果我知道你没有钥匙，我本不会锁门的。 
+
+686. She would have gone with me, but she didnt have time. 
+她本来想和我一起去，可是她没时间。 
+
+687. If I had asked directions, I havent got lost. 
+如果我问一下路，就不会走丢了。 
+
+688. Even if we could have taken the vocation, but we mightnt have wanted to. 
+即使我们可以休假，我们也可能不去休呢。 
+
+689. Evenything would be alright, if you had said that. 
+如果你没有那样做的话，一切都好办了。 
+
+690. Looking back on it, I wish we hadnt been given in so easily. 
+回过头来看，我希望我们没有这样轻易让步。 
+
+691. What is it you don’t like about winter weather? 
+你为何不喜欢冬天的天气? 
+
+692. I don’t like it when the weather gets real cold. 
+我不喜欢当天气变的很冷的时候. 
+
+693. I can’t stand summer weather. 我不能忍受夏天的天气. 
+
+694. The thing I don’t like about driving is all the traffic on the road. 
+我不喜欢开车去是因为路上很拥挤. 
+
+695. He doesn’t like the idea of going to bed early. 
+我不喜欢很早睡觉. 
+
+696. I like to play tennis, but I’m not a very good player. 
+我很喜欢打网球, 但是打得不是很好. 
+
+697. I don’t like spinach even though I know it’s good for me. 
+我不喜欢菠菜, 即使我知道它对我很有好处. 
+
+698. I’m afraid you’re being too particular about your food. 
+恐怕你所吃的食物太特殊了. 
+
+699. He always finds fault with everything. 
+无论是什么事情, 他总能发现错误. 
+
+700. She doesn’t like anything I do or say. 
+无论我做什么说什么, 她都不喜欢. 
+
+701. You have wonderful taste in clothes. 你对服饰很在行. 
+
+702. What’s your favorite pastime? 你最喜欢的娱乐方式是什么? 
+
+703. What did you like best about the movie? 
+你最欣赏这部电影的哪个方面? 
+
+704. I didn’t like the taste of the medicine, but I took it anyway. 
+我不喜欢药的味道, 但是无论如何我都会吃掉它. 
+
+705. Why do you dislike the medicine so much? 为什么你这么不喜欢药? 
+
+706. If you want my advice, I don’t think you should go. 
+如果你想征求我的意见, 我希望你不要去. 
+
+707. I suggest that you tear up the letter and start over again. 
+我建议你把信撕掉, 再重新写一遍. 
+
+708. It’s only a suggestion, and you can do what you please. 
+这仅仅是一个建议, 这些事情你必须要自己考虑. 
+
+709. Let me give you a little fatherly advice. 让我给你个建议. 
+
+710. If you don’t like it, I wish you would say so. 
+如果你不喜欢, 我希望你能说出你的意见. 
+
+711. Please don’t take offense. I only wanted to tell you what I think. 
+请别发火. 我只是告诉你我的想法. 
+
+712. In my opinion, the house isn’t worth the price they’re asking. 
+依我看, 这间房子根本不值他们要的价钱. 
+
+713. My feeling is that you ought to stay home tonight. 
+我觉得你今晚应该呆在家里. 
+
+714. It’s none of my business, but I think you ought to work harder. 
+这件事情和我毫无关系, 但是我觉得你应更努力地工作. 
+
+715. In general, my reaction is favorable. 
+总体来说, 我的反映还是很受欢迎的. 
+
+716. If you don’t take my advice, you’ll be sorry. 
+如果你不采纳我的建议, 你将会后悔. 
+
+717. I’ve always tried not to interfere in your affairs. 
+我总是尽力地不干涉你的工作. 
+
+718. I’m old enough to make up my own mind. 
+我已经大了, 可以自己做决定了. 
+
+719. Thanks for the advice, but this is something I have to figure out myself. 
+谢谢你的建议, 但是这是件我必须自己去解决的事情. 
+
+720. He won’t pay attention to anybody. You’re just wasting your breath. 
+他谁的建议都不会听. 你们仅仅是在白费口舌. 
+
+721. Would you please hold the door open for me? 
+你能帮我把门打开吗? 
+
+722. Youre very kind to take the trouble to help me. 
+你真热心, 不闲麻烦的来帮助我. 
+
+723. I wish I could repay you somehow for your kindness. 
+我希望, 对你的好意我能有所回报. 
+
+724. Im afraid it was a bother for you to do this. 
+做这件事恐怕会给你带来很多麻烦. 
+
+725. It wasnt any bother. I was glad to do it. 
+一点儿都不麻烦. 我很乐意做. 
+
+726. Theres just one last favor I need to ask of you. 
+还有最后一件事需要你的帮助. 
+
+727. Id be happy to help you in any way I can. 
+很高兴我能尽我所能地帮助你. 
+
+728. Would you mind giving me a push? My car has stalled. 
+你能帮我推推车吗?我的车抛锚了. 
+
+729. Would you be so kind as to open this window for me? Its stuffy. 
+你能帮我将窗户打开吗?这里快令人窒息了. 
+
+730. If there’s anything else I can do, please let me know. 
+如果还有我能做的事情, 请告诉我. 
+
+731. This is the last time Ill ever ask you to do anything for me. 
+这是最后一次我麻烦你为我做事情了. 
+
+732. I certainly didnt intend to cause you so much inconvenience. 
+我真得不想给你带来这么多不便. 
+
+733. He’ll always be indebted to you for what youve done. 
+对你所做的事情, 他总是感激不尽. 
+
+734. Could you lend me ten dollars? I left my wallet at home. 
+能借我十美元吗?我把钱包忘在家里了. 
+
+735. Id appreciate it if you would turn out the lights. Im sleepy. 
+如果你能将灯关掉的话, 我将不胜感激. 我很困. 
+
+736. I didn’t realize the time had passed so quickly. 
+我没有意识到时间过的这样快. 
+
+737. I’ve got a lot of things to do before I can leave. 
+在我走之前, 我有很多事情要做. 
+
+738. For one thing, I’ve got to drop by the bank to get some money. 
+我不得不去银行提些钱. 
+
+739. It’ll take almost all my savings to buy the ticket. 
+买这张票, 几乎花费了我所有积蓄. 
+
+740. Oh, I just remembered something! I have to apply for a passport. 
+我记起一件事. 我不得不去申请个护照. 
+
+741. I almost forgot to have the phone disconnected. 
+我差点忘记去切断电话了. 
+
+742. It’s a good thing you reminded me to take my heavy coat. 
+你提醒我带件厚衣服是个很好的建议. 
+
+743. I never would have thought of it if you hadn’t mentioned it. 
+如果你不提到它的话, 我几乎想不起来了. 
+
+744. I’ll see you off at the airport. 我会去机场送你. 
+
+745. They’re calling your flight now. You barely have time to make it. 
+他们现在在广播你的班机起飞时间. 你勉强来得及. 
+
+746. You’d better run or you’re going to be left behind. 
+你最好跑着过去, 否则就会被拉下. 
+
+747. Don’t forget to cable to let us know you arrived safely. 
+你安全到达后, 别忘记告诉我们. 
+
+748. I’m sure I’ve forgotten something, but it’s too late now. 
+我确定我忘记了什么东西, 但是现在太晚了. 
+
+749. Do you have anything to declare for customs? 
+你有什么需要报关的吗? 
+
+750. You don’t have to pay any duty on personal belongings. 
+你的私人物品不用交税. 
+
+751. What’s your nationality? Are you American? 
+你是哪国人？是美国人吗？ 
+
+752. What part of the world do you come from? 
+你来自世界的何处？ 
+
+753. I’m an American by birth. 
+我一出生就是美国人。 
+
+754. I was born in Spain, but I’m a citizen of France. 
+我出生在西班牙，但我是法国公民。 
+
+755. Do you know what the population of Japan is? 
+你知道日本有多少人口吗？ 
+
+756. What’s the area of the Congo in square miles? 
+刚果的面积是多少平方英里？ 
+
+757. Who is the governor of this state? 
+谁是该州的州长？ 
+
+758. According to the latest census, our population has increased. 
+根据最近的人口调查，我们的人口增加了。 
+
+759. Politically, the country is divided into fifty states. 
+该国从政治上划为50个州。 
+
+760. The industrial area is centered largely in the north. 
+工业区大部份集中在北方。 
+
+761. The country is rich in natural resources. It has mineral deposits. 
+该国的自然资源丰富，它有矿藏。 
+
+762. This nation is noted for its economic stability. 
+该国以经济稳定而出名。 
+
+763. How old do you have to be to vote in the national elections? 
+你多大才有全国选举权。 
+
+764. Today we celebrate our day of independence. It’s a national holiday. 
+今天，我们庆祝我们的独立节，它也是国庆节。 
+
+765. My home is in the capital. It’s a cosmopolitan city. 
+我的家在首都，它是一个世界性的大城市。 
+
+766. Geographically, this country is located in the southern hemisphere. 
+从地理上看, 这个国家位于南半球. 
+
+767. It’s a beautiful country with many large lakes. 
+这是一个有着若干大湖的美丽的国家. 
+
+768. This part of the country is very mountainous. 
+这个国家的这部分由众多的山脉覆盖. 
+
+769. The land in this region is dry and parched. 
+这个地区的土地干旱且贫瘠. 
+
+770. Along the northern coast there are many high cliffs. 
+北海岸有很多高高的山崖. 
+
+771. There are forests here, and lumbering is important. 
+这里有很多森林, 因此伐木业很重要. 
+
+772. The scenery is beautiful near the Pacific Ocean. 
+太平洋附近的景色很漂亮. 
+
+773. This mountain range has many high peaks and deep canyons. 
+这座山有众多的高峰和低谷. 
+
+774. what kind of climate do you haved?Is it mild? 
+你们那的气候怎样?潮湿吗? 
+
+775. How far is it from the shore of the Atlantic to the mountains? 
+从大西洋海岸到山区有多远? 
+
+776. Is the coastal plain good for farming? 
+这种海边的平原有利于农业吗? 
+
+777. What’s the longest river in the United States? 
+美国最长的河是什么? 
+
+778. Are most of the lakes located in the north central region? 
+大部分湖泊是不是在北部的中心地区. 
+
+779. As you travel westward, does the land get higher? 
+你去西部旅行时, 是不是地势越来越高? 
+
+780. The weather is warm and sunny here. Do you get much rain? 
+这里天气781. Children enter school at the age of five, don’t they? 
+孩子们到五岁时就上学, 是吗? 
+
+782. In elementary school, the child learns to read and write. 
+孩子们在小学里学习读和写. 
+
+783. In secondary school, children get more advanced knowledge. 
+在中学里, 孩子们得到更高的教育. 
+
+784. In universities, students train to become teachers and engineers. 
+在大学里学生们被培训为老师和工程师. 
+
+785. He went to grade school in New york and high school in Cicargo. 
+他在纽约上小学, 在芝加哥上中学. 
+
+786. In college I majored in science. What was your major? 
+大学里我的专业是科学. 你呢? 
+
+787. My sister graduated from high school. Graduation was last night. 
+我姐姐从中学毕业. 毕业晚会在昨晚举行. 
+
+788. I’m a graduate of Yale University. I have a Bachelor of Arts degree. 
+我是一名耶鲁大学的毕业生. 我获得了艺术学士学位. 
+
+789. If you expect to enter the university, you should apply now. 
+如果你想上大学的话, 你现在就应申请. 
+
+790. This is my first year of college. I’m a freshman. 
+这是我大学的第一年. 我是新生. 
+
+791. My uncle is a high school principal. 我的叔叔是一名中学校长. 
+
+792. What kind of grades did you make in college? 你在大学中成绩如何? 
+
+793. During your first year of college, did you make straight As? 
+在大学的第一年里, 你是不是优秀学生? 
+
+794. My brother is a member of the faculty. He teaches economics. 
+我的哥哥是一名教员. 他教经济. 
+
+795. John has extracurricular activities. He’s on the football team. 
+约翰有许多课外活动. 他是一名足球队员. 
+
+
+
+796. I’m a federal employee. I work for the Department of Labor. 
+我是一名联邦雇员. 我在劳动部门工作. 
+
+797. What kind of work do you do? Are you a saleman? 
+你从事什么工作?是不是销售员? 
+
+798. As soon as I complete my training, I’m going to be a bank teller. 
+一旦我完成了我的训练, 我将成为出纳员. 
+
+799. John has built up his own business. He owns a hotel. 
+约翰已经有了自己的生意. 他有一个旅馆. 
+
+800. What do you want to be when you grow up? 你长大后想做什么? 
+
+801. I like painting, but I wouldn’t want it to be my life’s work. 
+我喜欢绘画, 但是我不会让他成为我终生的职业. 
+
+802. Have you ever thought about a career in the medical profession? 
+你是否考虑过成为医学专业的职员? 
+
+803. My uncle was a pilot with the airlines. He just retired. 
+我的叔叔是航空公司的飞行员. 他刚刚退休. 
+
+804. My brother’s in the army. He was just promoted to the rank of major. 
+我的哥哥在军队里. 他刚刚被提升为少校. 
+
+805. I have a good-paying job with excellent hours. 
+我有一份工资很高工作时间理想的工作. 
+
+806. My sister worked as a secretary before she got married. 
+我的姐姐结婚前是个秘书. 
+
+807. George’s father is an attorney. He has his own company. 
+乔治的父亲是个律师. 他拥有自己的公司. 
+
+808. He always takes pride in his work. He’s very efficient. 
+他总是以他的工作为荣. 他是个很能干的人. 
+
+809. Mr. Smith is a politician. He’s running for election as governor. 
+史密斯先生是个政治家. 他正在为竞选统治者而奔忙. 
+
+810. After a successful career in business, he was appointed ambassador. 
+他在生意中有了成就后, 就被任命为大使. 
+
+811. Because of the warm and sunny weather, oranges grow very well here. 
+因为这里气候温暖, 光照充足, 橘子在这长势很好. 
+
+812. In this flat country people grow wheat and corn and raise cattle. 
+在这个平坦的国家, 人们种植小麦, 棉花, 饲养牲畜. 
+
+813. The ground around here is stony and not very good for farming. 
+这周围的地面多石, 不适合农业的种植. 
+
+814. What are the principal farm products in this region? 
+这个地区的主要农产品是什么? 
+
+815. Milk, butter, and cheese are shipped here from the dairy farms. 
+牛奶, 黄油, 奶酪都从制酪场运到这里. 
+
+816. They had to cut down a lot of trees to make room for farms. 
+他们不得不砍伐一些树木, 从而为农场提供足够的地方. 
+
+817. At this time of the year farmers plow their fields. 
+一年中的这个时候农民们常常用犁来耕种自己的土地. 
+
+818. On many farms you’ll find cows and chickens. 
+在许多农场中你都能发现很多奶牛和鸡. 
+
+819. If you have cows you have to get up early to do the milking. 
+如果你有奶牛的话, 你不得不早起来挤牛奶. 
+
+820. Tractors have revolutionized farming. 拖拉机革新了农业方法. 
+
+821. In the United States, there are many factories for making cloth. 
+美国有很多制造衣服的工厂. 
+
+822. Factories employ both male and female workers. 
+工厂中雇佣了男女工人. 
+
+823. If you work in a factory, you usually have to punch a clock. 
+如果你在工厂工作的话, 你就需要在上下班记时卡上打孔. 
+
+824. Is meat packing a big industry in your country? 
+肉类包装在你们国家是不是一项大的工业? 
+
+825. Is it true that manufacturing of automobiles is a major industry? 
+汽车制造业是主要工业是真的吗? 
+
+826. My hobby is collecting stamps. Do you have a hobby? 
+我的爱好是集邮. 你有什么爱好? 
+
+827. I’ve always thought photography would be an interesting hobby. 
+我总是想摄影会是一个有趣的爱好. 
+
+828. Some people like horseback riding, but I prefer golfing as a hobby. 
+一些人喜欢骑马, 但是我喜欢打高尔夫球. 
+
+829. Do you have any special interests other than your job? 
+除了工作以外, 你还有什么特殊的兴趣爱好吗? 
+
+830. Learning foreign languages is just an avocation with me. 
+学外语是我的一项爱好. 
+
+831. I find stamp collecting relaxing and it takes my mind off my work. 
+我发现集邮可以让人放松, 能让我远离工作. 
+
+832. On weekends I like to get my mind off my work by reading good books. 
+每当周末时我总喜欢读书, 从而使我的注意力从工作中脱离出来. 
+
+833. My cousin is a member of a drama club. He seems to enjoy acting. 
+我的堂兄是戏曲俱乐部的成员. 他看上去很喜欢这项娱乐. 
+
+834. He plays the piano for his own enjoyment. 他因为兴趣而弹钢琴. 
+
+835. I’ve gotten interested in hi-fi. I’m building my own equipment. 
+我对高保真收音机渐渐产生了兴趣. 我正在装备一台. 
+
+836. He’s not a professional. He plays the piano for the fun of it. 
+他不是职业演员. 他仅仅因为兴趣而弹钢琴. 
+
+837. I’ve heard of unusual hobbies, but I’ve never heard of that one. 
+我曾经听说过不同寻常的习惯, 但是我还没有听说过那一个. 
+
+838. The trouble with photography is that it’s an expensive hobby. 
+摄影爱好的缺点是它是一种昂贵的兴趣. 
+
+839. That’s rare set of coins. How long did it take you to collect them? 
+这是一套罕见的钱币. 你用了多久来收集它? 
+
+840. I started a new hobby. I got tired of working in the garden. 
+我尝试着一种新的爱好841. Baseball is my favorite sport. What’s your favorite? 
+棒球是我最喜欢的体育运动. 你最喜欢的是什么? 
+
+842. My nephew is a baseball player. He is a catcher. 
+我的外甥是一名棒球运动员. 他是一名接球员. 
+
+843. When you played football, what position did you play? 
+你踢足球时, 占据什么位置? 
+
+844. We played a game last night. The score was tired six-to-six. 
+我们昨晚玩了一个游戏, 打成了六平. 
+
+845. I went to a boxing match last night. It was a good fight. 
+昨晚我去看了一场拳击比赛. 那是一个很好的夜晚. 
+
+846. When I was on the track team, I used to run the quarter mile. 
+过去我在田径队时, 经常跑接力赛. 
+
+847. I like fishing and hunting, but I don’t like swimming. 
+我喜欢钓鱼和打猎, 但是不喜欢游泳. 
+
+848. My favorite winter sport is skiing. I belong to a ski club. 
+我最喜欢的冬季项目是滑雪. 我在一个滑雪俱乐部里. 
+
+849. Would you be interested in going to the horse races this afternoon? 
+今天下午你有兴趣去看赛马吗? 
+
+850. The hardest thing to learn is to be a good loser. 
+最难学的事情是做一名输的起的运动员. 
+
+851. Be a good sport. Play according to the rules of the game. 
+成为一个好的运动员需要遵守游戏规则. 
+
+852. Our family went camping last summer. We had to buy a new tent. 
+我家去年夏天去野炊了. 我们不得不买一个新的帐篷. 
+
+853. This afternoon we went to the gym for a workout. We lifted weights. 
+今天下午我们去体育馆做健身. 我们的体重减了一点. 
+
+854. What do you do for recreation? Do you have a hobby? 
+你闲暇时做什么? 你有什么爱好吗? 
+
+855. My muscles are sore from playing baseball. 
+打完棒球后, 我的肌肉一直酸痛. 
+
+856. I sent in a subscription to that magazine. It’s put out every week. 
+我订阅了那份杂志. 它是周刊. 
+
+857. If you subscribe to the newspaper, it’ll be delivered to your door. 
+如果你订阅新报纸的话, 它将会送到你家里. 
+
+858. I didn’t read the whole paper. I just glanced at the headlines. 
+我没有读通篇的文章. 我只是看了看标题. 
+
+859. The first chapter of the story is in this issue of the magazine. 
+这个故事的第一章刊登在这期杂志上. 
+
+860. I haven’t seen the latest issue of the magazine. Is it out yet? 
+我没有看到这个杂志的最新观点?是不是没有出版? 
+
+861. What’s the total circulation of this newspaper? 报纸的总发行量怎样? 
+
+862. I’m looking for the classified section. Have you seen it? 
+我在找分类广告?你看到了吗? 
+
+863. My brother-in-law is a reporter on The New York Times staff. 
+我的姐夫是纽约时报的记者. 
+
+864. There was an article in today’s paper about the election. 
+今天的报纸上有选举的消息. 
+
+865. There wasn’t much news in the paper today. 
+今天的报纸上没有太多的消息. 
+
+866. How long have you been taking this magazine? 
+你订阅这份杂志多久了? 
+
+867. Did you read the article about the rescue of the two fishermen? 
+你读了关于拯救两个钓鱼者的消息了吗? 
+
+868. Why don’t you put an advertisement in the paper to sell your car? 
+为何不在报纸上刊登你想卖车的消息呢? 
+
+869. I got four replies to my ad about the bicycle for sale. 
+我已经收到四份关于我卖自行车的回应了? 
+
+870. My son has a newpaper route. He delivers the morning paper. 
+我的儿子专跑一条送报路线. 他总是早上送报. 
+
+871. What channel did you watch on television last night? 
+昨天晚上你在电视上看的哪个台的节目? 
+
+872. I don’t get a good picture on my TV set. There’s something wrong. 
+我的电视机上画面不清楚. 可能出毛病了. 
+
+873. You get good reception on your radio. 你的收音机接收情况很好. 
+
+874. Please turn the radio up. It’s too low. 
+请把收音机开大点声. 声音太小了. 
+
+875. What’s on following the news and weather?Do you have a TV guide? 
+播完新闻和天气预报后是什么节目?你有电视节目预报表吗? 
+
+876. You ought to have Bill look at your TV. Maybe he could fix it. 
+你应该让比尔看看你的电视. 他可能会修理. 
+
+877. We met one of the engineers over at the television station. 
+我们在电视台遇见了一个在那边工作的工程师. 
+
+878. Where can I plug in the TV? Is this outlet all right? 
+什么地方可以安装电视?这个插头可以用吗? 
+
+879. I couldn’t hear the program because there was too much static. 
+因为干扰太大, 我听不清节目了. 
+
+880. Your car radio works very well. What kind is it? 
+你车上的收音机性能很好. 它是什么类型的? 
+
+881. The next time I buy a TV set, I’m going to buy a portable model. 
+下一次我买电视机时, 我打算买一部手提式的. 
+
+882. I wonder if this is a local broadcast. 我不知道这是不是本地广播. 
+
+883. You’d get better TV reception if you had an outside antenna. 
+如果你有外部天线的话, 你的电视机的接收效果将会很好. 
+
+884. Most amateur radio operators build their own equipment. 
+大多数业余收音机爱好者都自己装机子. 
+
+885. Station WRC is off the air now. They signed off two hours ago. 
+电台WRC已经停止广播了. 它们在两小时之前就结束了. 
+
+
+
+886. What’s your favorite kind of music? Do you like jazz? 
+你最喜欢什么音乐?你喜欢爵士乐吗? 
+
+887. He’s a composer of serious music. I like his music a lot. 
+他是一名庄严音乐的作曲家. 我很喜欢他的音乐. 
+
+888. We went to a concert last night to hear the symphony orchestra. 
+我们昨天晚上去听交响乐了. 
+
+889. My brother took lessons on the trumpet for nearly ten years. 
+我的哥哥练习吹喇叭将近十年了. 
+
+890. You play the piano beautifully. How much do you practice every day? 
+你钢琴弹得很好. 你一天练习多长时间? 
+
+891. I’ve never heard that piece before. Who wrote it? 
+我从没有听过这一段. 是谁写的? 
+
+892. Have you ever thought about becoming a professional musician? 
+你有没有想到过要成为一名专业的音乐家. 
+
+893. Who is the author of this novel? 这个小说的作者是谁? 
+
+894. I’ve never read a more stirring story. 
+我从没有读过这么感人的故事. 
+
+895. Who would you name as the greatest poet of our time? 
+你认为谁是我们这个时代最著名的诗人? 
+
+896. This poetry is realistic. I don’t care for it very much. 
+这篇诗集是写实的. 我不太喜欢. 
+
+897. Many great writers were not appreciated fully while they were alive. 
+许多伟大的作家, 在他们那个时代并不是很受欢迎. 
+
+898. This is a poem about frontier life in the United States. 
+这是一首描述美国边境的诗. 
+
+899. This writer uses vivid descriptions in his writings. 
+这位作家在他的作品中运用了生动的手笔. 
+
+900. How much do you know about the works of Henry Wadsworth Longfellow? 
+你对Henry Wadsworth Longfellow 的作品了解多少? 
