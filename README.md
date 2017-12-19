@@ -30,7 +30,5 @@ Visual Basic 6.0
 ![](http://git.oschina.net/deali/ClassroomTools/raw/master/捕获.PNG)
 
 ## 联系作者
-邮箱：deali@live.com
-Skype：deali@live.com
-QQ：1875615476
+邮箱：dealiaxy@gmail.com   
 欢迎交流！
