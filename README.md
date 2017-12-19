@@ -32,5 +32,5 @@ Visual Basic 6.0
 ## 联系作者
 邮箱：dealiaxy@gmail.com   
 微信公众号：DealiAxy
-!()[https://github.com/Deali-Axy/_CodeZone/raw/master/images/WeChatOfficialAccount/344.jpg]
+![](https://github.com/Deali-Axy/_CodeZone/raw/master/images/WeChatOfficialAccount/344.jpg)
 欢迎交流！
